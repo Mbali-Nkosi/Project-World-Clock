@@ -1,5 +1,5 @@
 body {
-  background-color: pink;
+  background-color: purple;
   font-family: Roboto;
 }
 
@@ -25,7 +25,7 @@ select {
 .container {
   max-width: 600px;
   margin: 60px auto;
-  background: white;
+  background: pink;
   padding: 30px;
   box-shadow: 0px 7px 29px 0px black;
   border-radius: 10px;
@@ -36,7 +36,7 @@ select {
   margin: 10px 0;
   justify-content: space-between;
   padding: 30px 0;
-  border-bottom: 1px dashed pink;
+  border-bottom: 1px dashed black;
 }
 
 .city:last-child {
