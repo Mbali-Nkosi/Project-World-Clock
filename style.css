@@ -1,5 +1,5 @@
 body {
-  background-color: #f9f7fe;
+  background-color: yellow;
   font-family: sans-serif;
 }
 
@@ -36,7 +36,7 @@ select {
   margin: 10px 0;
   justify-content: space-between;
   padding: 30px 0;
-  border-bottom: 1px dashed rgba(0, 0, 0, 0.2);
+  border-bottom: 1px dashed orange;
 }
 
 .city:last-child {
@@ -61,5 +61,5 @@ select {
 footer {
   text-align: center;
   font-size: 18px;
-  color: rgba(0, 0, 0, 0.8);
+  color: brown;
 }
