@@ -11,7 +11,6 @@ function updateTime() {
       "h:mm:ss [<small>]A[</small>]"
     );
   }
-
   // Paris
   let parisElement = document.querySelector("#paris");
   if (parisElement) {
