@@ -1,5 +1,5 @@
 body {
-  background-color: blue violet;
+  background-color: black;
   font-family: Roboto;
 }
 
@@ -37,7 +37,7 @@ select {
   margin: 10px 0;
   justify-content: space-between;
   padding: 30px 0;
-  border-bottom: 1px dashed blue violet;
+  border-bottom: 1px dashed pink;
 }
 
 .city:last-child {
@@ -62,5 +62,5 @@ select {
 footer {
   text-align: center;
   font-size: 18px;
-  color: purple;
+  color: black;
 }
